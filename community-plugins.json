@@ -15510,5 +15510,12 @@
     "author": "Kodai Nakamura",
     "description": "automatically converts plain text file references into wiki links",
     "repo": "kdnk/obsidian-automatic-linker"
+  },
+  {
+    "id": "s3-image-uploader",
+    "name": "S3 Image Uploader",
+    "author": "houhoz",
+    "description": "Upload images to cloudflare r2",
+    "repo": "houhoz/obsidian-s3-image-uploader"
   }
 ]
